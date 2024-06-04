@@ -5,6 +5,8 @@ This dataset compiles key enrollment indicators of school graduates from 1995 to
 Encompassing data from all schools within the Azerbaijani region, the dataset, consisting of approximately 83,000 rows, is an invaluable asset for predictive analytics, facilitating the forecast of future university acceptance rates based on historical patterns. The dataset is structured into rows, each representing a unique combination of a school and academic year, with columns for each recorded indicator, such as attendance, average scores, and acceptance rates into different types of higher education institutions.
 
 Authors: [Nijat Zeynalov](https://www.linkedin.com/in/nijat-zeynalov-064163142), [Natig Mamishov](https://www.linkedin.com/in/natig-mamishov/?originalSubdomain=az)
+
+Dataset url: [HuggingFace](nijatzeynalov/az-school-graduate-enrollment)
 ##  Column Descriptions
 school_name: The official name of the school.
 
